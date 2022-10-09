@@ -1,23 +1,5 @@
-/**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
- */
 
 @charset "UTF-8";
-
-/*!------------------------------------------------------------------
-[MAIN STYLESHEET]
-
-PROJECT:	Galaxy - Personal Blog Template
-VERSION:	v1.0
--------------------------------------------------------------------*/
-
-
-/*------------------------------------------------------------------
-[TABLE OF CONTENTS]
--------------------------------------------------------------------*/
 
 @import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&family=Montserrat:wght@400;500&display=swap");
 body {
@@ -453,7 +435,7 @@ li {
 /*------------------------------------------------------------------
  # preloader style
 -------------------------------------------------------------------*/
-
+/*
 .preloader-wrapper {
     position: fixed;
     top: 0;

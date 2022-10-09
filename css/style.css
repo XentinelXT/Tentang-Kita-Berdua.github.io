@@ -1,7 +1,4 @@
-
 @charset "UTF-8";
-
-
 @import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&family=Montserrat:wght@400;500&display=swap");
 body {
     color: #B0B0B0;
@@ -437,6 +434,8 @@ li {
  # preloader style
 -------------------------------------------------------------------*/
 
+
+/*
 .preloader-wrapper {
     position: fixed;
     top: 0;
